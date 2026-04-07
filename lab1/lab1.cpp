@@ -18,7 +18,7 @@ double calculateVariant2(double x, int n) {
             sum += prod;
         }
         y = sum;
-        cout << "Obchysleno dlya x < 0 (suma dobutkiv)" << endl;
+        cout << "Obchyslenooooo dlya x < 0 (suma dobutkiv)" << endl;
     } else {
         
         double prod = 1;
